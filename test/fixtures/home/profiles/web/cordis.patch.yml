@@ -1,0 +1,7 @@
+- insert:
+    - id: good
+      name: good-plugin
+      config: {}
+    - id: good
+      name: another
+      config: {}
